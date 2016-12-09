@@ -3,6 +3,14 @@ _s-light
 
 This is a modified version of _s (see below) that removes (somewhat) unnecessary scripts and support.
 
+Changes from _s
+---------------
+
+* Removed Emoji Support
+* Removed Comment Reply Script
+* Removed Query Strings
+* Removed oEmbed Scripts
+
 Recommendations
 ---------------
 
