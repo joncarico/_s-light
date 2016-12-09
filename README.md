@@ -3,6 +3,18 @@ _s-light
 
 This is a modified version of _s (see below) that removes (somewhat) unnecessary scripts and support.
 
+Recommendations
+---------------
+
+1. Limit the revision history of posts by adding the following to your wp-config.php file:
+<code>define( ‘WP_POST_REVISIONS’, 3 );</code>
+
+2. Install the [Autoptimize Plugin](https://wordpress.org/plugins/autoptimize/) to concatenate, compress, and minify all JS, CSS, and HTML.
+
+3. Install the [WP Smush Image Optimizer Plugin](https://en-gb.wordpress.org/plugins/wp-smushit/) to crop and reduce filesize of images.
+
+4. Install the [W3 Total Cache Plugin](https://wordpress.org/plugins/w3-total-cache/) to improve SEO and reduce load times with CDN caching.
+
 _s
 ===
 
