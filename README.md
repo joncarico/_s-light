@@ -1,4 +1,7 @@
-[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
+_s-light
+===
+
+This is a modified version of _s (see below) that removes (somewhat) unnecessary scripts and support.
 
 _s
 ===
